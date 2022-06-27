@@ -7,8 +7,8 @@ year = '1998'
 month ='March'
 day = '27'
 gender = 'Male'
-#to_email = "tech@oneassure.in"
-to_email = "hafeez.sk1995@gmail.com"
+to_email = "tech@oneassure.in"
+
 
 
 
