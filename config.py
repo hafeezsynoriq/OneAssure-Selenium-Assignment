@@ -1,6 +1,6 @@
 first_name = "Ayndi"
 last_name = "One"
-user_email = "ayndi327ts@gmail.com"
+user_email = "ayndi1327ts@gmail.com"
 password = "ayndi@32@"
 phone_number = "8885650640"
 year = '1998'
